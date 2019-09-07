@@ -1,4 +1,1 @@
 app: steeltoe
-config: configuration
-data: data from yml
-message: hello from yml
