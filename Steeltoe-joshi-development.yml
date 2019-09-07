@@ -1,0 +1,3 @@
+config: configuration
+data: data from development
+message: hello from dev yml
